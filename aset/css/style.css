@@ -240,7 +240,7 @@ hr{
 
 	.nav-collapse{
 		display: block;
-		margin-right: auto;
+		margin-right: 100px;
 		text-align: center;
 		line-height: 50%;
 		height: 40px;
